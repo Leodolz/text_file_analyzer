@@ -48,7 +48,7 @@ These two .json files are mandatory to run the program and come inside the "vali
 ## Usage
 
 In order to run the program, simply go to the root folder 
-(leodolz_final_project) and in this directory you should find many other 
+(text_analyzer) and in this directory you should find many other 
 directories alongside with a single file named "text_analyzer.py". 
 Use python command as below
 ```python
