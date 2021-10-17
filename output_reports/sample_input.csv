@@ -1,0 +1,13 @@
+Count Data,,,Frequency Data,,
+
+Title,Value,,Title,Value
+# of Lines,10,,Most used words,"""Of"": 4 times,""Here"": 4 times,""Invalid"": 4 times,""A"": 4 times,""Is"": 4 times"
+# of Words,107,,Least used words,"""Sample"": 1 time,""Input"": 1 time,""Spaces"": 1 time,""Punctuation"": 1 time,""And"": 1 time"
+# of Digits,46,,Most used letters,"""E"": 58 times,""T"": 41 times,""A"": 34 times,""S"": 34 times,""I"": 33 times"
+# of Characters,524,,Least used letters,"""X"": 1 time,""I"": 1 time,""J"": 1 time,""K"": 1 time,""Z"": 1 time"
+# of Filler Words,1,,Most used fillers,"""Only"": 8 times"
+# Words not found in dict,5,,Words not found in dict,"""22,33.98"": At line 3,""3rd"": At line 5,""jdkalsd"": At line 5,""incorect"": At line 5,""1,2,3.9"": At line 7"
+# Punctuation characters,23,,Most used numbers,"""132,333,445.980"": 1 time,""123456798012345678920"": 1 time,""22"": 1 time"
+# Upper characters,9,,,
+# Lower characters,446,,,
+# Unique words,69,,,

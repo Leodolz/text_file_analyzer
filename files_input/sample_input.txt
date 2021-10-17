@@ -1,0 +1,10 @@
+This is a sample input file, with many letters
+spaces, punctuation and even some 22 numbers. Don't use invalid numbers, here is a valid large number
+123456798012345678920, some invalid number would be 22,33.98. This file
+has a lot of letters alongside with some out of words out of context which help have more data for the report.
+But this 3rd time I went here with jdkalsd as an invalid word or incorect spelling.
+A valid number is 132,333,445.980.
+But this should be an invalid one 1,2,3.9. Despite many letters written here,
+the letter z is only listed once, as one of the least used characters.
+
+Another paragraph can start here.
